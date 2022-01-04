@@ -4,7 +4,6 @@ import './TicTacToe.css';
 function TicTacToe() {
   const emptyBoard = Array(9).fill("");
   const [board, setboard] = useState(emptyBoard);
-
   const handleCellClick = (index) => {
     setboard(board.map((item, itemIndex) => itemIndex === index ? "X" : item));
   }
