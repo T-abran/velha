@@ -2,13 +2,11 @@
   --O-color: #2196f3;
   --X-color: #f44336;
 }
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   display: grid;
   align-items: center;
@@ -62,7 +60,6 @@ body {
 .cell.O {
   background-color: var(--O-color)
 }
-
 .cell.X {
   background-color: var(--X-color)
 }
