@@ -13,3 +13,5 @@ O objectivo é conseguir três círculos ou três xis ou bolinhas em linha, quer
     - ``` cd velha ```
  - Inicia o projeto:
     - ``` npm start ```
+     <h3 align="left"> Foto do Projeto </h3>
+ <img src="./images/jogodavelha.png" alt="foto do projeto" />
